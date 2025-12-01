@@ -13,3 +13,4 @@
 13|sandra|48|sandra@sandra|1|sandrinhaRH|1
 15|Ricardo|25|ricardo@bike.com|1|rick123|1
 16|Amanda|34|amanda@bike.com|1|amandaRH|1
+17|Pão de sal|200|pão@mofado.com|1|123|1

@@ -3,7 +3,7 @@
 3|Nathor Aro 16|Infantil Rosa com rodinhas|4|1
 4|Lev E-Bike|Eletrica Dobravel 350w Bateria ruim|0|0
 5|Houston Fox|Preta e Azul Aro 26|6|1
-6|Specialized Rockhopper|MTB Profissional Suspensao a Ar|0|1
+6|Specialized Rockhopper|MTB Profissional Suspensao a Ar|17|1
 7|Caloi 10 Antiga|Reliquia Amarela precisa de reparo|0|0
 8|Groove Urban|Hibrida para cidade Pneu Slick|7|1
 9|Wethepeople|BMX Freestyle Cromoly|0|1
@@ -11,5 +11,5 @@
 11|Cannondale Trail|Verde Musgo Aro 29|0|1
 12|Caloi City Tour|Urbana Cinza Freio Disco|11|1
 13|Scott Scale|Carbono Competiçao|0|0
-15|Caloi Andes|Mountain Bike Aro 26 Preta|0|1
+15|Caloi Andes|Mountain Bike Aro 26 Roxa|13|1
 16|Trek Marlin|Azul Escuro Aro 29|12|1
